@@ -24,9 +24,9 @@ The main functions are:<br /><br />
 2. Click “Quick Scan” button to Scan Your Computer.<br />
 3. Click the “Repair All” button and then the problem will be gone completely!<br /><br />
 <a href="http://www.lionsea.com/product_windowsinstallererrorfixerfixer.php"><img src="http://www.lionsea.com/image/icons/fixer/Windows_Installer_Error_Fixer/main2.png" /></a><br /><br />
-You can read more articles about Windows Installer Error: 
-<a href="https://archive.org/details/HowToFixWindowsInstallerError">Windows Installer Cleanup Utility Download</a>
-<a href="https://archive.org/details/HowToFixWindowsInstallerError2">Repair Windows Installer</a>
-<a href="http://www.windows8downloads.com/win8-smart-windows-installer-error-fixer-pro-tthvjewk/">Reinstall Windows Installer</a>
-<a href="http://www.youtube.com/watch?v=sWdOjBDLWNo">MSI Installer</a>
-<a href="http://smart-windows-installer-error-fixer-pro.soft112.com/ ">Windows Installer Problem</a>
+You can read more articles about Windows Installer Error: <br /><br />
+<a href="https://archive.org/details/HowToFixWindowsInstallerError">Windows Installer Cleanup Utility Download</a><br />
+<a href="https://archive.org/details/HowToFixWindowsInstallerError2">Repair Windows Installer</a><br />
+<a href="http://www.windows8downloads.com/win8-smart-windows-installer-error-fixer-pro-tthvjewk/">Reinstall Windows Installer</a><br />
+<a href="http://www.youtube.com/watch?v=sWdOjBDLWNo">MSI Installer</a><br />
+<a href="http://smart-windows-installer-error-fixer-pro.soft112.com/ ">Windows Installer Problem</a><br />
